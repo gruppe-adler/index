@@ -22,16 +22,27 @@
     </a>
 </p>
 
-
-- [**grad_minui**](https://github.com/gruppe-adler/grad_minui)  
-_Gruppe Adler MinUI is an mod for Arma 3, which removes some UI components and substitutes some of the vanilla elements with minimalistic replacements._
-- [**grad_trenches**](https://github.com/gruppe-adler/grad_trenches)  
-_Visual Upgrade for Trenches._
-- [**grad_slingHelmet**](https://github.com/gruppe-adler/grad_slingHelmet)  
-_Gruppe Adler Sling Helmet is a mod for Arma 3, which adds the functionality of attaching your helmet to your belt._
-
 ## Arma 3 Libraries
-_BLA BLA_
+<p align="center">
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+</p>
 
 ## Topic Guidelines Overview
 You can use as much topics as you like, but we ask you to include the fitting topics according to the following guidelines:  
