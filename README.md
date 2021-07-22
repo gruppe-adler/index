@@ -6,19 +6,17 @@
 We can't cover all repositories with topics, but we can try to cover as many as possible:
 
 ### Categories
-- Web related repositories: `web` (doesn't matter if NodeBB plugin, backend for an online service or our homepage)
-- Mods: `mod`
-- Scripting libraries: `library`
-- Missions: `mission`
-  - TvT: `tvt`
-  - COOP: `coop`
-  - Test mission: `testmission`
+- Web related repositories: <div data-topic>web</div> (doesn't matter if NodeBB plugin, backend for an online service or our homepage)
+- Mods: <div data-topic>mod</div>
+- Scripting libraries: <div data-topic>library</div>
+- Missions: <div data-topic>mission</div>
+  - TvT: <div data-topic>tvt</div>
+  - COOP: <div data-topic>coop</div>
+  - Test mission: <div data-topic>testmission</div>
 
 ### Modifiers
-- Mod / Missions Templates: `template`
-- Arma 3 content (mods, libraries, missions): `arma3`
+- Mod / Missions Templates: <div data-topic>template</div>
+- Arma 3 content (mods, libraries, missions): <div data-topic>arma3</div>
 
 
-<div class="Box d-flex pinned-item-list-item p-3 width-full js-pinned-item-list-item public sortable-button-item source reorderable">
-    Yo
-</div>
+<div data-topic>arma3</div>
