@@ -1,6 +1,28 @@
 # Gruppe Adler GitHub Index
 
 ## Arma 3 Mods
+<p align="center">
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+    <a href="https://github.com/gruppe-adler/grad_minu">
+        <img src="./repo_example.svg">
+    </a>
+</p>
+
+
 - [**grad_minui**](https://github.com/gruppe-adler/grad_minui)  
 _Gruppe Adler MinUI is an mod for Arma 3, which removes some UI components and substitutes some of the vanilla elements with minimalistic replacements._
 - [**grad_trenches**](https://github.com/gruppe-adler/grad_trenches)  
