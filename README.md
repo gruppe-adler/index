@@ -1,5 +1,8 @@
 # Gruppe Adler GitHub Index
 
+## Archived repositories
+All discontinued projects should be archived. This includes played missions and deprecated libraries.
+
 ## Topics
 All repositories in this organization should have the appropriate topics to keep the org easily searchable. We can't cover all repositories with common topics, but we can try to cover as many as possible.  
 **You can use as many topics as you like, but we ask you to at least include the topics according to the following guidelines:**  
