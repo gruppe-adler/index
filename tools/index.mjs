@@ -1,5 +1,10 @@
 import { join } from 'path';
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, dirname } from 'fs';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
 import { insertTopicPills } from './topicPills.mjs';
 
 const INPUT_PATH = join(__dirname, '..', 'README.md');
