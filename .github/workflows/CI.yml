@@ -19,7 +19,7 @@ jobs:
     - name: Render README.md
       run: node ./tools/index.mjs
     - name: Deploy
-      if: ${{ github.ref == 'refs/heads/master' }}
+      if: ${{ github.ref == 'refs/heads/template' }}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
