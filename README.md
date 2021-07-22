@@ -2,11 +2,14 @@
 
 ## Arma 3 Mods
 - [**grad_minui**](https://github.com/gruppe-adler/grad_minui)  
-Gruppe Adler MinUI is an mod for Arma 3, which removes some UI components and substitutes some of the vanilla elements with minimalistic replacements.
+_Gruppe Adler MinUI is an mod for Arma 3, which removes some UI components and substitutes some of the vanilla elements with minimalistic replacements._
 - [**grad_trenches**](https://github.com/gruppe-adler/grad_trenches)  
-Visual Upgrade for Trenches.
+_Visual Upgrade for Trenches._
 - [**grad_slingHelmet**](https://github.com/gruppe-adler/grad_slingHelmet)  
-Gruppe Adler Sling Helmet is a mod for Arma 3, which adds the functionality of attaching your helmet to your belt.
+_Gruppe Adler Sling Helmet is a mod for Arma 3, which adds the functionality of attaching your helmet to your belt._
+
+## Arma 3 Libraries
+_BLA BLA_
 
 ## Topic Guidelines Overview
 You can use as much topics as you like, but we ask you to include the fitting topics according to the following guidelines:  
