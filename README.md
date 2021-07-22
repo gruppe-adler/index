@@ -2,7 +2,7 @@
 
 ## Topics
 All repositories in this organization should have the appropriate topics to keep the org easily searchable. We can't cover all repositories with common topics, but we can try to cover as many as possible.  
-You can use as much topics as you like, but we ask you to at least include the topics according to the following guidelines:  
+**You can use as many topics as you like, but we ask you to at least include the topics according to the following guidelines:**  
 There are categories and modifiers. Each repository can have one category and any amount of modifiers.  
   
 i.e. an Arma 3 Coop Mission would have <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a>, <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a> (+ any further topics you like)
