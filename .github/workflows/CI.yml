@@ -1,0 +1,26 @@
+name: CI
+
+push:
+  branches:
+    - template
+
+jobs:
+  render:
+    runs-on: ubuntu-latest 
+    name: Render template
+    steps:
+    - name: 'Checkout the source code from GitHub'
+      uses: actions/checkout@v2
+    - name: Create dist/ directory
+      run: mkdir -p ./dist
+    - name: Copy img/ directory
+      run: cp -r ./img ./dist/img
+    - name: Render README.md
+      run: node ./tools/index.mjs
+    - name: Deploy
+      if: ${{ github.ref == 'refs/heads/master' }}
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: master
+        publish_dir: ./dist
