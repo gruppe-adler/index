@@ -54,8 +54,7 @@ I.e. an Arma 3 Coop Mission would have <a href="https://github.com/search?q=org%
 - Mods: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg"></a>
 - Scripting libraries: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg"></a>
 - TvT Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atvt"><img valign="middle" src="./img/topics/tvt.svg"></a>
-- COOP Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg">
-</a>
+- COOP Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg"></a>
 - Test Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atestmission"><img valign="middle" src="./img/topics/testmission.svg"></a>
 
 ### Modifiers
