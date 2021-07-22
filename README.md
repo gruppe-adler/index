@@ -1,7 +1,5 @@
 # Gruppe Adler GitHub Index
 
-## 
-
 ## Topics
 All repositories in this organization should have the appropriate tags to keep our repositories easily searchable. We can't cover all repositories with common topics, but we can try to cover as many as possible.  
 You can use as much topics as you like, but we ask you to at least include the topics according to the following guidelines:
