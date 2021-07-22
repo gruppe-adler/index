@@ -16,8 +16,8 @@ I.e. an Arma 3 Coop Mission would have <a href="https://github.com/search?q=org%
 - Test Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atestmission"><img valign="middle" src="./img/topics/testmission.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atestmission))
 
 ### Modifiers
-- Mod / Missions Templates: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate"><img valign="middle" src="./img/topics/template.svg"></a>
-- Arma 3 content (mods, libraries, missions): <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a>
+- Mod / Missions Templates: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate"><img valign="middle" src="./img/topics/template.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate))
+- Arma 3 content (mods, libraries, missions): <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3))
 
 
 ## Arma 3 Mods (<a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg"></a> & <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a>)
