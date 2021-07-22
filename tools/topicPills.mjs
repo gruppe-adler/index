@@ -1,3 +1,6 @@
+import { generateQueryLink } from './utils.mjs';
+
+
 const TOPIC_LINK_PATTERN = /<span .*data-topic="([a-z0-9-_]+)".*>.*<\/span>/gi
 
 /**
@@ -5,7 +8,7 @@ const TOPIC_LINK_PATTERN = /<span .*data-topic="([a-z0-9-_]+)".*>.*<\/span>/gi
  * @returns {string}
  */
 const generateTopicPill = (topic) => {
-    return `<a href="${generateSearchLink({ org: ORG_NAME, topics: [topic] })}"><img valign="middle" src="./img/topics/${topic}.svg"></a>`
+    return `<a href="${generateQueryLink({ org: ORG_NAME, topics: [topic] })}"><img valign="middle" src="./img/topics/${topic}.svg"></a>`
 };
 
 
