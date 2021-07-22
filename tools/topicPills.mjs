@@ -2,7 +2,7 @@ import { generateQueryLink } from './utils.mjs';
 import { ORG_NAME } from './const.mjs';
 
 
-const TOPIC_LINK_PATTERN = /<span .*data-topic="([a-z0-9-_]+)".*>.*<\/span>/gi
+const TOPIC_LINK_PATTERN = /<span [^>]*data-topic="([a-z0-9-_]+)"[^>]*>[^<]*<\/span>/gi
 
 /**
  * @param {string} topic Topic
