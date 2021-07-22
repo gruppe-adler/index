@@ -12,7 +12,7 @@ i.e. an Arma 3 Coop Mission would have <a href="https://github.com/search?q=org%
 
 ### Categories
 - Web related repositories: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb))
-- Mods: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg"></a>([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amod))
+- Mods: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amod))
 - Scripting libraries: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary))
 - TvT Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atvt"><img valign="middle" src="./img/topics/tvt.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atvt))
 - COOP Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Acoop))
