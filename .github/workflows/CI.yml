@@ -14,10 +14,14 @@ jobs:
       uses: actions/checkout@v2
     - name: Create dist/ directory
       run: mkdir -p ./dist
-    - name: Copy img/ directory
-      run: cp -r ./img ./dist/img
     - name: Render README.md
       run: node ./tools/index.mjs
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Copy img/ directory
+      run: cp -r ./img ./dist/img
+    - name: Copy CONTRIBUTING
+      run: cp -r ./CONTRIBUTING ./dist/CONTRIBUTING
     - name: Deploy
       if: ${{ github.ref == 'refs/heads/template' }}
       uses: peaceiris/actions-gh-pages@v3
@@ -25,3 +29,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: master
         publish_dir: ./dist
+        enable_jekyll: true

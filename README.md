@@ -18,53 +18,13 @@ i.e. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span
 - COOP Missions: <span data-topic="mission"></span> and <span data-topic="coop"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Acoop))
 - Test Missions: <span data-topic="mission"></span> and <span data-topic="testmission"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atestmission))
 
-
-
 ### Modifiers
 - Mod / Missions Templates: <span data-topic="template"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate))
 - Arma 3 content (mods, libraries, missions): <span data-topic="arma3"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3))
 
 
 ## Arma 3 Mods (<span data-topic="mod"></span> & <span data-topic="arma3"></span>)
-<p align="center">
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-</p>
+<div data-list="mod arma3"></div>
 
 ## Arma 3 Libraries (<span data-topic="library"></span> & <span data-topic="arma3"></span>)
-<p align="center">
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-    <a href="https://github.com/gruppe-adler/grad_minu">
-        <img src="./img/repo_example.svg">
-    </a>
-</p>
+<div data-list="library arma3"></div>

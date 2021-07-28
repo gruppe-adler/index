@@ -1,6 +1,5 @@
-import { generateQueryLink } from './utils.mjs';
-import { ORG_NAME } from './const.mjs';
-
+const { generateQueryLink } = require('./query');
+const { ORG_NAME } = require('./const');
 
 const TOPIC_LINK_PATTERN = /<span [^>]*data-topic="([a-z0-9-_]+)"[^>]*>[^<]*<\/span>/gi
 
@@ -8,18 +7,22 @@ const TOPIC_LINK_PATTERN = /<span [^>]*data-topic="([a-z0-9-_]+)"[^>]*>[^<]*<\/s
  * @param {string} topic Topic
  * @returns {string}
  */
-const generateTopicPill = (topic) => {
+function generateTopicPill(topic) {
     return `<a href="${generateQueryLink({ org: ORG_NAME, topics: [topic] })}"><img valign="middle" src="./img/topics/${topic}.svg"></a>`
 };
 
 
 /**
- * 
+ * Insert topic pills in string
  * @param {string} str 
- * @returns {string}
+ * @returns {string} String with topics pills
  */
-export const insertTopicPills = (str) => {
+function insertTopicPills(str) {
     return str.replace(TOPIC_LINK_PATTERN, (match, topic) => {
         return generateTopicPill(topic);
     });
 }
+
+module.exports = {
+    insertTopicPills
+};
