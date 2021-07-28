@@ -1,3 +1,5 @@
+const { writeFileSync } = require('fs');
+const { join } = require('path');
 const { ORG_NAME } = require('./const');
 const { getAllOrgRepos } = require('./getAllRepos');
 const { replaceAsync, includesAll } = require('./utils');
@@ -43,9 +45,9 @@ async function generateRepoImage(name, description) {
     </svg>
     `;
 
-    const encodedData = Buffer.from(svgText).toString('base64');
+    writeFileSync(join(__dirname, '..', 'img', 'repositories', `${name}.svg`), svgText);
 
-    return `data:image/svg+xml;base64,${encodedData}`
+    return `./img/repositories/${name}.svg`;
 }
 
 /**
