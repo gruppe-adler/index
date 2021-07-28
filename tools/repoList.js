@@ -43,12 +43,7 @@ async function generateRepoImage(name, description) {
     </svg>
     `;
 
-    // const parser = new DOMParser();
-    // const doc = parser.parseFromString(svgText, 'image/svg+xml');
-    // const serializer = new XMLSerializer();
-    // const str = serializer.serializeToString(doc)
-
-    const encodedData = btoa(svgText);
+    const encodedData = Buffer.from(svgText).toString('base64');
 
     return `data:image/svg+xml;base64,${encodedData}`
 }
