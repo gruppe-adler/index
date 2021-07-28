@@ -14,8 +14,10 @@ jobs:
       uses: actions/checkout@v2
     - name: Create dist/ directory
       run: mkdir -p ./dist
+    - name: Install dependencies
+      run: npm ci
     - name: Render README.md
-      run: node ./tools/index.mjs
+      run: node ./tools/index.js
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Copy img/ directory
