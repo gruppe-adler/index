@@ -5,7 +5,7 @@
     <text x="48" y="36" fill="#58A6FF" font-weight="bold" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-size="16px" alignment-baseline="middle">grad-persistence</text>
     <switch>
         <foreignObject x="24" y="56" width="336" height="74">
-        <p xmlns="http://www.w3.org/1999/xhtml" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; font-size: 14px; line-height: 18px; margin: 0; color:#C9D1D9;">Save/Load mission progress in server's profileNamespace</p>
+        <p xmlns="http://www.w3.org/1999/xhtml" style="font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; font-size: 14px; line-height: 18px; margin: 0; color:#C9D1D9;">Save/Load mission progress in server&#39;s profileNamespace</p>
         </foreignObject>
         <text x="24" y="93" alignment-baseline="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-size="14px" fill="#C9D1D9">Your SVG viewer cannot display html.</text>
     </switch>
