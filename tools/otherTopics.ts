@@ -11,6 +11,8 @@ const TOPICS_COUNT_PROMISE = (async () => {
     const topicsCount = new Map<string, number>();
 
     for (const repo of allRepos) {
+        if (repo.isArchived || repo.isPrivate) continue;
+
         for (const topic of repo.topics) {
             const cur = topicsCount.get(topic) ?? 0;
             topicsCount.set(topic, cur + 1);
@@ -20,7 +22,7 @@ const TOPICS_COUNT_PROMISE = (async () => {
     return Array.from(topicsCount.entries()).sort((a, b) => b[1] - a[1]);
 })();
 
-export async function insertOtherTags (str: string): Promise<string> {
+export async function insertOtherTopics (str: string): Promise<string> {
     return await replaceAsync(str, OTHER_TAGS_PATTERN, async (match, excludedTopicStr) => {
         const excludedTopic = excludedTopicStr.split(' ');
         const topicsCount = await TOPICS_COUNT_PROMISE;

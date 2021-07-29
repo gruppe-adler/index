@@ -2,7 +2,7 @@ import { join } from 'path';
 import { readFileSync, writeFileSync } from 'fs';
 import { insertTopicPills } from './topicPills';
 import { insertRepoList } from './repoList';
-import { insertOtherTags } from './otherTags';
+import { insertOtherTopics } from './otherTopics';
 
 const INPUT_PATH = join(__dirname, '..', 'README_TEMPLATE.md');
 const OUTPUT_PATH = join(__dirname, '..', 'dist', 'README.md');
@@ -12,7 +12,7 @@ const OUTPUT_PATH = join(__dirname, '..', 'dist', 'README.md');
 
     readmeText = await insertRepoList(readmeText);
 
-    readmeText = await insertOtherTags(readmeText);
+    readmeText = await insertOtherTopics(readmeText);
 
     readmeText = insertTopicPills(readmeText);
 
