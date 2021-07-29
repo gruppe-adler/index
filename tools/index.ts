@@ -14,7 +14,7 @@ const OUTPUT_PATH = join(__dirname, '..', 'dist', 'README.md');
 
     readmeText = await insertOtherTopics(readmeText);
 
-    readmeText = insertTopicPills(readmeText);
+    readmeText = await insertTopicPills(readmeText);
 
     writeFileSync(OUTPUT_PATH, readmeText);
 })().catch(err => {

@@ -28,6 +28,7 @@ jobs:
       run: |
         cp -r ./img ./dist/img
         rm ./dist/img/repositories/.gitignore
+        rm ./dist/img/topics/.gitignore
     - name: Copy CONTRIBUTING
       run: cp -r ./CONTRIBUTING ./dist/CONTRIBUTING
     - name: Deploy
