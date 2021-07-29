@@ -50,19 +50,19 @@ The list below includes all repositories, which aren't archived, not private and
 ## Arma 3 Libraries
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg" alt="library"></a> <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg" alt="arma3"></a>
 <p align="center">
-<a href="https://github.com/gruppe-adler/grad-randomizeMap"><img src="./img/repositories/grad-randomizeMap.svg" alt="grad-randomizeMap"></a>
 <a href="https://github.com/gruppe-adler/grad-loadout"><img src="./img/repositories/grad-loadout.svg" alt="grad-loadout"></a>
 <a href="https://github.com/gruppe-adler/grad-islandconfig"><img src="./img/repositories/grad-islandconfig.svg" alt="grad-islandconfig"></a>
 <a href="https://github.com/gruppe-adler/grad-persistence"><img src="./img/repositories/grad-persistence.svg" alt="grad-persistence"></a>
 <a href="https://github.com/gruppe-adler/grad-fortifications"><img src="./img/repositories/grad-fortifications.svg" alt="grad-fortifications"></a>
-<a href="https://github.com/gruppe-adler/grad-factions"><img src="./img/repositories/grad-factions.svg" alt="grad-factions"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad-tvtsettings"><img src="./img/repositories/grad-tvtsettings.svg" alt="grad-tvtsettings"></a>
-<a href="https://github.com/gruppe-adler/grad-introCam"><img src="./img/repositories/grad-introCam.svg" alt="grad-introCam"></a>
+<a href="https://github.com/gruppe-adler/grad-factions"><img src="./img/repositories/grad-factions.svg" alt="grad-factions"></a>
+<a href="https://github.com/gruppe-adler/grad-tvtsettings"><img src="./img/repositories/grad-tvtsettings.svg" alt="grad-tvtsettings"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad-introCam"><img src="./img/repositories/grad-introCam.svg" alt="grad-introCam"></a>
 <a href="https://github.com/gruppe-adler/grad-passport"><img src="./img/repositories/grad-passport.svg" alt="grad-passport"></a>
 <a href="https://github.com/gruppe-adler/grad-replay"><img src="./img/repositories/grad-replay.svg" alt="grad-replay"></a>
 <a href="https://github.com/gruppe-adler/grad-permaChoice"><img src="./img/repositories/grad-permaChoice.svg" alt="grad-permaChoice"></a>
 <a href="https://github.com/gruppe-adler/grad-moneyMenu"><img src="./img/repositories/grad-moneyMenu.svg" alt="grad-moneyMenu"></a>
 <a href="https://github.com/gruppe-adler/grad-dynGroupDecals"><img src="./img/repositories/grad-dynGroupDecals.svg" alt="grad-dynGroupDecals"></a>
 <a href="https://github.com/gruppe-adler/grad-factions-tvt"><img src="./img/repositories/grad-factions-tvt.svg" alt="grad-factions-tvt"></a>
+<a href="https://github.com/gruppe-adler/grad-sectors"><img src="./img/repositories/grad-sectors.svg" alt="grad-sectors"></a>
 <a href="https://github.com/gruppe-adler/grad-sectors"><img src="./img/repositories/grad-sectors.svg" alt="grad-sectors"></a>
 <a href="https://github.com/gruppe-adler/grad-vehicleRespawn"><img src="./img/repositories/grad-vehicleRespawn.svg" alt="grad-vehicleRespawn"></a>
 <a href="https://github.com/gruppe-adler/grad-leaveNotes"><img src="./img/repositories/grad-leaveNotes.svg" alt="grad-leaveNotes"></a>
