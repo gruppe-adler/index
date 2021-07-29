@@ -16,8 +16,10 @@ jobs:
       run: mkdir -p ./dist
     - name: Install dependencies
       run: npm ci
+    - name: Build
+      run: npm run build
     - name: Render README.md
-      run: node ./tools/index.js
+      run: npm start
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Copy img/ directory
