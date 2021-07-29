@@ -5,7 +5,7 @@ const { insertTopicPills } = require('./topicPills');
 const { insertRepoList } = require('./repoList');
 const { insertOtherTags } = require('./otherTags');
 
-const INPUT_PATH = join(__dirname, '..', 'README.md');
+const INPUT_PATH = join(__dirname, '..', 'README_TEMPLATE.md');
 const OUTPUT_PATH = join(__dirname, '..', 'dist', 'README.md');
 
 (async function() {
