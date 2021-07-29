@@ -8,7 +8,7 @@ All repositories in this organization should have the appropriate topics to keep
 **You can use as many topics as you like, but we ask you to at least include the topics according to the following guidelines:**  
 There are categories and modifiers. Each repository can have one category and any amount of modifiers.  
   
-i.e. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span data-topic="coop"></span> and <span data-topic="arma3"></span> (+ any further topics you like)
+e.g. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span data-topic="coop"></span> and <span data-topic="arma3"></span> (+ any further topics you like)
 
 ### Categories
 - Web related repositories: <span data-topic="web"></span> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb+archived%3Afalse))
