@@ -5,26 +5,28 @@ const { generateQueryString } = require('./query');
 const query = `
 query ($queryStr: String!, $after:String) {
     search(query: $queryStr, type: REPOSITORY, first: 100, after:$after) {
-      edges{cursor}
-      nodes {
-        ... on Repository {
-          id
-          name
-          description
-          isArchived
-          isPrivate
-          repositoryTopics(first:10) {
-            nodes {
-              topic {
+        edges{cursor}
+        nodes {
+            ... on Repository {
+                id
                 name
-              }
+                description
+                isArchived
+                isPrivate
+                isTemplate
+                pushedAt
+                repositoryTopics(first:10) {
+                    nodes {
+                        topic {
+                            name
+                        }
+                    }
+                }
             }
-          }
         }
-      }
-      repositoryCount
+        repositoryCount
     }
-  }
+}
 `;
 
 const octokit = github.getOctokit(process.env.GITHUB_TOKEN ?? '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');
@@ -32,8 +34,8 @@ const octokit = github.getOctokit(process.env.GITHUB_TOKEN ?? 'ghp_DfLm8dmkiJica
 /**
  * @typedef {{ topic: { name: string } }} Topic
  * @typedef {{ cursor: string }} Edge
- * @typedef {{ id: string, name: string, description: string, isArchived: boolean, isPrivate: boolean, topics: string[] }} Repo
- * @typedef {{ id: string, name: string, description: string, isArchived: boolean, isPrivate: boolean, repositoryTopics: { nodes: Topic[] } }} ApiRepo
+ * @typedef {{ id: string, name: string, description: string, isArchived: boolean, pushedAt: string, isTemplate: boolean, isPrivate: boolean, topics: string[] }} Repo
+ * @typedef {{ id: string, name: string, description: string, isArchived: boolean, pushedAt: string, isTemplate: boolean, isPrivate: boolean, repositoryTopics: { nodes: Topic[] } }} ApiRepo
  */
 
 /**
@@ -57,6 +59,8 @@ async function runQuery(queryStr, repos = [], after = undefined) {
             description: repo.description,
             isArchived: repo.isArchived,
             isPrivate: repo.isPrivate,
+            isTemplate: repo.isTemplate,
+            pushedAt: repo.pushedAt,
             topics: repo.repositoryTopics.nodes.map(t => t.topic.name),
         }
     });
@@ -72,7 +76,9 @@ async function runQuery(queryStr, repos = [], after = undefined) {
     return runQuery(queryStr, repos, newAfter)
 };
 
-const ORG_REPOSITORIES_PROMISE = runQuery(generateQueryString({ org: ORG_NAME }));
+const ORG_REPOSITORIES_PROMISE = runQuery(generateQueryString({ org: ORG_NAME })).then(repos => {
+    return repos.sort((a, b) => new Date(b.pushedAt) - new Date(a.pushedAt));
+});
 
 /**
  * Get all repos of organization
