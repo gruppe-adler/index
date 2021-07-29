@@ -16,7 +16,7 @@ i.e. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span
 - Scripting libraries: <span data-topic="library"></span> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary+archived%3Afalse))
 - TvT Missions: <span data-topic="mission"></span> and <span data-topic="tvt"></span> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atvt+archived%3Afalse))
 - COOP Missions: <span data-topic="mission"></span> and <span data-topic="coop"></span> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Acoop+archived%3Afalse))
-- Test Missions: <span data-topic="mission"></span> and <span data-topic="test"></span> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atestmission+archived%3Afalse))
+- Test Missions: <span data-topic="mission"></span> and <span data-topic="test"></span> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atest+archived%3Afalse))
 
 ### Modifiers
 - Mod / Missions Templates: <span data-topic="template"></span> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate+archived%3Afalse))
