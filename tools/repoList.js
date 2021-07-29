@@ -8,11 +8,21 @@ const escape = require('escape-html');
 const REPO_LIST_PATTERN = /<div [^>]*data-list="([a-z0-9-_\s]+)"[^>]*>[^<]*<\/div>/gi
 
 /**
- * @param {Object[]} repositories Repository names
+ * @param {string[]} repositories Repository names
  * @returns {Promise<string>} Rendered list
  */
-async function generateList(repositories) {
-    return `<p align="center">\n${(await Promise.all(repositories.map(renderRepo))).join('\n')}\n</p>`;
+async function generateList(topics) {
+    const allRepos = await getAllOrgRepos();
+
+    const repositories = allRepos.filter(repo => !repo.isArchived && !repo.isPrivate && includesAll(repo.topics, topics))
+
+    const headline = `The list below includes all repositories, which aren't archived, not private and have the following tags:${topics.map(t => `<span data-topic="${t}"></span>`).join(' ')}`;
+
+    const renderedRepos = await Promise.all(repositories.map(renderRepo));
+
+    const reposStr = renderRepo.length <= 8 ? renderedRepos.join('\n') : `${renderedRepos.slice(0, 5).join('\n')}<details><summary>Show more</summary>${renderedRepos.slice(5).join('\n')}</details>`
+
+    return `${headline}\n<p align="center">\n${reposStr}\n</p>`;
 }
 
 /**
@@ -60,11 +70,7 @@ async function insertRepoList(str) {
     return replaceAsync(str, REPO_LIST_PATTERN, async (match, topicsStr) => {
         const topics = topicsStr.split(' ');
 
-        const allRepos = await getAllOrgRepos();
-
-        const repos = allRepos.filter(repo => !repo.isArchived && !repo.isPrivate && includesAll(repo.topics, topics))
-
-        return generateList(repos)
+        return generateList(topics)
     });
 }
 
