@@ -11,16 +11,16 @@ There are categories and modifiers. Each repository can have one category and an
 i.e. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span data-topic="coop"></span> and <span data-topic="arma3"></span> (+ any further topics you like)
 
 ### Categories
-- Web related repositories: <span data-topic="web"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb))
-- Mods: <span data-topic="mod"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amod))
-- Scripting libraries: <span data-topic="library"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary))
-- TvT Missions: <span data-topic="mission"></span> and <span data-topic="tvt"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atvt))
-- COOP Missions: <span data-topic="mission"></span> and <span data-topic="coop"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Acoop))
-- Test Missions: <span data-topic="mission"></span> and <span data-topic="testmission"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atestmission))
+- Web related repositories: <span data-topic="web"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb+archived%3Afalse))
+- Mods: <span data-topic="mod"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amod+archived%3Afalse))
+- Scripting libraries: <span data-topic="library"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary+archived%3Afalse))
+- TvT Missions: <span data-topic="mission"></span> and <span data-topic="tvt"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atvt+archived%3Afalse))
+- COOP Missions: <span data-topic="mission"></span> and <span data-topic="coop"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Acoop+archived%3Afalse))
+- Test Missions: <span data-topic="mission"></span> and <span data-topic="testmission"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atestmission+archived%3Afalse))
 
 ### Modifiers
-- Mod / Missions Templates: <span data-topic="template"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate))
-- Arma 3 content (mods, libraries, missions): <span data-topic="arma3"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3))
+- Mod / Missions Templates: <span data-topic="template"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate+archived%3Afalse))
+- Arma 3 content (mods, libraries, missions): <span data-topic="arma3"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3+archived%3Afalse))
 
 
 ## Arma 3 Mods (<span data-topic="mod"></span> & <span data-topic="arma3"></span>)
