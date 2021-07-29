@@ -11,16 +11,16 @@ There are categories and modifiers. Each repository can have one category and an
 i.e. an Arma 3 Coop Mission would have <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a>, <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a> (+ any further topics you like)
 
 ### Categories
-- Web related repositories: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb+archived%3Afalse))
-- Mods: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amod+archived%3Afalse))
-- Scripting libraries: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary+archived%3Afalse))
-- TvT Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atvt"><img valign="middle" src="./img/topics/tvt.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atvt+archived%3Afalse))
-- COOP Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Acoop+archived%3Afalse))
-- Test Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atestmission"><img valign="middle" src="./img/topics/testmission.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atestmission+archived%3Afalse))
+- Web related repositories: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb+archived%3Afalse))
+- Mods: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amod+archived%3Afalse))
+- Scripting libraries: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary+archived%3Afalse))
+- TvT Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atvt"><img valign="middle" src="./img/topics/tvt.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atvt+archived%3Afalse))
+- COOP Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Acoop+archived%3Afalse))
+- Test Missions: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atest"><img valign="middle" src="./img/topics/test.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Amission+topic%3Atestmission+archived%3Afalse))
 
 ### Modifiers
-- Mod / Missions Templates: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate"><img valign="middle" src="./img/topics/template.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate+archived%3Afalse))
-- Arma 3 content (mods, libraries, missions): <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3+archived%3Afalse))
+- Mod / Missions Templates: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate"><img valign="middle" src="./img/topics/template.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Atemplate+archived%3Afalse))
+- Arma 3 content (mods, libraries, missions): <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3+archived%3Afalse))
 
 
 ## Arma 3 Mods
@@ -50,13 +50,12 @@ The list below includes all repositories, which aren't archived, not private and
 ## Arma 3 Libraries
 The list below includes all repositories, which aren't archived, not private and have the following tags: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg"></a> <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg"></a>
 <p align="center">
-<a href="https://github.com/gruppe-adler/grad-randomizeMap"><img src="./img/repositories/grad-randomizeMap.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-loadout"><img src="./img/repositories/grad-loadout.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-islandconfig"><img src="./img/repositories/grad-islandconfig.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-persistence"><img src="./img/repositories/grad-persistence.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-fortifications"><img src="./img/repositories/grad-fortifications.svg"></a>
-<a href="https://github.com/gruppe-adler/grad-factions"><img src="./img/repositories/grad-factions.svg"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad-tvtsettings"><img src="./img/repositories/grad-tvtsettings.svg"></a>
-<a href="https://github.com/gruppe-adler/grad-introCam"><img src="./img/repositories/grad-introCam.svg"></a>
+<a href="https://github.com/gruppe-adler/grad-factions"><img src="./img/repositories/grad-factions.svg"></a>
+<a href="https://github.com/gruppe-adler/grad-tvtsettings"><img src="./img/repositories/grad-tvtsettings.svg"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad-introCam"><img src="./img/repositories/grad-introCam.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-passport"><img src="./img/repositories/grad-passport.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-replay"><img src="./img/repositories/grad-replay.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-permaChoice"><img src="./img/repositories/grad-permaChoice.svg"></a>
@@ -70,10 +69,8 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad-listBuymenu"><img src="./img/repositories/grad-listBuymenu.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-heligame"><img src="./img/repositories/grad-heligame.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-advancedLockpicking"><img src="./img/repositories/grad-advancedLockpicking.svg"></a>
-<a href="https://github.com/gruppe-adler/a_st_phoneTest.VR"><img src="./img/repositories/a_st_phoneTest.VR.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-vehicleSpawner"><img src="./img/repositories/grad-vehicleSpawner.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-gpsTracker"><img src="./img/repositories/grad-gpsTracker.svg"></a>
-<a href="https://github.com/gruppe-adler/a_st_rotorwash.Zargabad"><img src="./img/repositories/a_st_rotorwash.Zargabad.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-scoreboard"><img src="./img/repositories/grad-scoreboard.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-winrateTracker"><img src="./img/repositories/grad-winrateTracker.svg"></a>
 <a href="https://github.com/gruppe-adler/grad-makeFire"><img src="./img/repositories/grad-makeFire.svg"></a></details>
