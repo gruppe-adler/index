@@ -22,7 +22,7 @@ const TEXT_TO_SVG_OPTIONS = {
     y: FONT_SIZE / 2 + VERTICAL_PADDING
 };
 
-async function generateTopicImage (topic: string): Promise<string> {
+async function generateTopicImage (topic: string): Promise<{url: string; width: number; height: number }> {
     const { width: textWidth } = textToSVG.getMetrics(topic, TEXT_TO_SVG_OPTIONS);
 
     const width = textWidth + HORIZONTAL_PADDING * 2;
@@ -37,7 +37,7 @@ async function generateTopicImage (topic: string): Promise<string> {
 
     writeFileSync(join(__dirname, '..', 'img', 'topics', `${topic}.svg`), svgText);
 
-    return `./img/topics/${topic}.svg`;
+    return { url: `./img/topics/${topic}.svg`, width, height };
 }
 
 /**
@@ -45,9 +45,9 @@ async function generateTopicImage (topic: string): Promise<string> {
  * @returns Rendered topic pill
  */
 async function generateTopicPill (topic: string): Promise<string> {
-    const url = await generateTopicImage(topic);
+    const { url, width, height } = await generateTopicImage(topic);
 
-    return `<a href="${generateQueryLink({ org: ORG_NAME, topics: [topic] })}"><img valign="middle" src="${url}" alt="${topic}"></a>`;
+    return `<a href="${generateQueryLink({ org: ORG_NAME, topics: [topic] })}"><img valign="middle" src="${url}" alt="${topic}" width="${width}" height="${height}"></a>`;
 };
 
 /**
