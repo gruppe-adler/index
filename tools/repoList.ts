@@ -16,7 +16,7 @@ async function generateList (topics: string[]): Promise<string> {
 
     const repositories = allRepos.filter(repo => !repo.isArchived && !repo.isPrivate && includesAll(repo.topics, topics));
 
-    const headline = `The list below includes all repositories, which aren't archived, not private and have the following tags: ${topics.map(t => `<span data-topic="${t}"></span>`).join(' ')}`;
+    const headline = `The list below includes all repositories, which aren't archived, not private and have the following topics: ${topics.map(t => `<span data-topic="${t}"></span>`).join(' ')}`;
 
     const renderedRepos = await Promise.all(repositories.map(renderRepo));
 

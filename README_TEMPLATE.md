@@ -33,4 +33,4 @@ i.e. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span
 <div data-list="web"></div>
 
 ## Other popular topics
-<div data-other-tags="arma3 coop library mission mod template test tvt web"></div>
+<div data-other-topics="arma3 coop library mission mod template test tvt web"></div>

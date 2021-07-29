@@ -3,7 +3,7 @@ import { ORG_NAME } from './utils/const';
 import { getAllOrgRepos } from './utils/getAllRepos';
 import { replaceAsync } from './utils';
 
-const OTHER_TAGS_PATTERN = /<div[^>]*data-other-tags="([a-z0-9-_\s]*)"[^>]*>[^<]*<\/div>/gi;
+const OTHER_TOPICS_PATTERN = /<div[^>]*data-other-topics="([a-z0-9-_\s]*)"[^>]*>[^<]*<\/div>/gi;
 
 const TOPICS_COUNT_PROMISE = (async () => {
     const allRepos = await getAllOrgRepos();
@@ -23,7 +23,7 @@ const TOPICS_COUNT_PROMISE = (async () => {
 })();
 
 export async function insertOtherTopics (str: string): Promise<string> {
-    return await replaceAsync(str, OTHER_TAGS_PATTERN, async (match, excludedTopicStr) => {
+    return await replaceAsync(str, OTHER_TOPICS_PATTERN, async (match, excludedTopicStr) => {
         const excludedTopic = excludedTopicStr.split(' ');
         const topicsCount = await TOPICS_COUNT_PROMISE;
 
