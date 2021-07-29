@@ -1,5 +1,5 @@
-const { generateQueryLink } = require('./query');
-const { ORG_NAME } = require('./const');
+const { generateQueryLink } = require('./utils/query');
+const { ORG_NAME } = require('./utils/const');
 
 const TOPIC_LINK_PATTERN = /<span [^>]*data-topic="([a-z0-9-_]+)"[^>]*>[^<]*<\/span>/gi
 

@@ -1,7 +1,7 @@
 const { writeFileSync } = require('fs');
 const { join } = require('path');
-const { ORG_NAME } = require('./const');
-const { getAllOrgRepos } = require('./getAllRepos');
+const { ORG_NAME } = require('./utils/const');
+const { getAllOrgRepos } = require('./utils/getAllRepos');
 const { replaceAsync, includesAll } = require('./utils');
 const escape = require('escape-html');
 
