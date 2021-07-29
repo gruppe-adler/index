@@ -8,8 +8,8 @@ import escape from 'escape-html';
 const REPO_LIST_PATTERN = /<div [^>]*data-list="([a-z0-9-_\s]+)"[^>]*>[^<]*<\/div>/gi;
 
 /**
- * @param {string[]} repositories Repository names
- * @returns {Promise<string>} Rendered list
+ * @param topics List topics
+ * @returns Rendered list
  */
 async function generateList (topics: string[]): Promise<string> {
     const allRepos = await getAllOrgRepos();
@@ -27,8 +27,7 @@ async function generateList (topics: string[]): Promise<string> {
 
 /**
  * @param repo Repository name
- * @returns {Object} Rendered repository
- * @returns {Promise<string>} Rendered repo
+ * @returns Rendered repo
  */
 async function renderRepo (repo: { name: string; description: string; isTemplate: boolean }): Promise<string> {
     const { name, description, isTemplate } = repo;
@@ -71,8 +70,8 @@ async function generateRepoImage (name: string, description: string, isTemplate:
 
 /**
  * Insert repository lists in string
- * @param {string} str
- * @returns {string} String with repository lists
+ * @param str
+ * @returns String with repository lists
  */
 export async function insertRepoList (str: string): Promise<string> {
     return await replaceAsync(str, REPO_LIST_PATTERN, async (match, topicsStr) => {

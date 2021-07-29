@@ -51,10 +51,10 @@ interface ApiRepo extends BaseRepo {
 
 /**
  * Recursively query all repositories matching query string
- * @param {string} queryStr Query string
- * @param {Repo[]} [repos] Previous repos (used for recursion)
- * @param {string} [after] Query repos after this cursor (used for recursion)
- * @returns {Promise<Repo[]>} Repos
+ * @param queryStr Query string
+ * @param [repos] Previous repos (used for recursion)
+ * @param [after] Query repos after this cursor (used for recursion)
+ * @returns Repos
  */
 async function runQuery (queryStr: string, repos: Repo[] = [], after?: string): Promise<Repo[]> {
     console.log('Running query', queryStr, after);
@@ -87,7 +87,7 @@ const ORG_REPOSITORIES_PROMISE = runQuery(generateQueryString({ org: ORG_NAME })
 
 /**
  * Get all repos of organization
- * @returns {Promise<Repo[]>}
+ * @returns Repos
  */
 export async function getAllOrgRepos (): Promise<Repo[]> {
     return await ORG_REPOSITORIES_PROMISE;
