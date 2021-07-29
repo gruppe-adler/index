@@ -35,7 +35,7 @@ async function renderRepo(repo) {
 
     const url = await generateRepoImage(name, description, isTemplate);
 
-    const str = `<a href="https://github.com/${ORG_NAME}/${name}"><img src="${url}"></a>`;
+    const str = `<a href="https://github.com/${ORG_NAME}/${name}"><img src="${url}" alt="${name}"></a>`;
 
     return str;
 }
