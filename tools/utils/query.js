@@ -1,5 +1,5 @@
 /**
- * @typedef {{ topics?: string[], org?: string }} QueryObj
+ * @typedef {{ topics?: string[], org?: string, archived?: boolean }} QueryObj
  */
 
 
@@ -34,6 +34,7 @@ function generateQueryStrings(query) {
     const queries = [];
 
     if (query.org !== undefined) queries.push(`org:${query.org}`);
+    if (query.archived !== undefined) queries.push(`archived:${query.archived}`);
 
     for (const topic of query.topics ?? []) {
         queries.push(`topic:${topic}`);    
