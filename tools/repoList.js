@@ -16,11 +16,11 @@ async function generateList(topics) {
 
     const repositories = allRepos.filter(repo => !repo.isArchived && !repo.isPrivate && includesAll(repo.topics, topics))
 
-    const headline = `The list below includes all repositories, which aren't archived, not private and have the following tags:${topics.map(t => `<span data-topic="${t}"></span>`).join(' ')}`;
+    const headline = `The list below includes all repositories, which aren't archived, not private and have the following tags: ${topics.map(t => `<span data-topic="${t}"></span>`).join(' ')}`;
 
     const renderedRepos = await Promise.all(repositories.map(renderRepo));
 
-    const reposStr = renderRepo.length <= 8 ? renderedRepos.join('\n') : `${renderedRepos.slice(0, 5).join('\n')}<details><summary>Show more</summary>${renderedRepos.slice(5).join('\n')}</details>`
+    const reposStr = renderedRepos.length <= 8 ? renderedRepos.join('\n') : `${renderedRepos.slice(0, 5).join('\n')}<details><summary>Show more</summary>${renderedRepos.slice(5).join('\n')}</details>`
 
     return `${headline}\n<p align="center">\n${reposStr}\n</p>`;
 }
