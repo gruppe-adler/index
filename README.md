@@ -28,3 +28,6 @@ i.e. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span
 
 ## Arma 3 Libraries (<span data-topic="library"></span> & <span data-topic="arma3"></span>)
 <div data-list="library arma3"></div>
+
+## Web related projects (<span data-topic="web"></span>)
+<div data-list="web"></div>
