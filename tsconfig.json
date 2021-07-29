@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "strictNullChecks": true,
+        "esModuleInterop": true,
+        "outDir": "build",
+        "paths": {
+            "@/*": [
+                "./tools/*"
+            ]
+        },
+    },
+    "include": [
+        "tools/**/*.ts",
+        "tools/**/*.d.ts",
+        "tools/**/*.json"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

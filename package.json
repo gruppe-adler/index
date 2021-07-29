@@ -4,7 +4,9 @@
   "description": "## Archived repositories All discontinued projects should be archived. This includes played missions and deprecated libraries.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "start": "node ./build/index.js",
+    "lint": "eslint --ext .js,.ts ./tools"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,16 @@
   "dependencies": {
     "@actions/github": "^5.0.0",
     "escape-html": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/escape-html": "^1.0.1",
+    "@types/node": "^16.4.7",
+    "@typescript-eslint/eslint-plugin": "^4.28.5",
+    "eslint": "^7.31.0",
+    "eslint-config-standard-with-typescript": "^20.0.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "typescript": "^4.3.5"
   }
 }

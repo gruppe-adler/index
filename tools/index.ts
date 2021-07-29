@@ -1,22 +1,21 @@
-const { join } = require('path');
-const { readFileSync, writeFileSync } = require('fs');
-
-const { insertTopicPills } = require('./topicPills');
-const { insertRepoList } = require('./repoList');
-const { insertOtherTags } = require('./otherTags');
+import { join } from 'path';
+import { readFileSync, writeFileSync } from 'fs';
+import { insertTopicPills } from './topicPills';
+import { insertRepoList } from './repoList';
+import { insertOtherTags } from './otherTags';
 
 const INPUT_PATH = join(__dirname, '..', 'README_TEMPLATE.md');
 const OUTPUT_PATH = join(__dirname, '..', 'dist', 'README.md');
 
-(async function() {
+(async function () {
     let readmeText = readFileSync(INPUT_PATH, 'utf-8');
-    
+
     readmeText = await insertRepoList(readmeText);
 
     readmeText = await insertOtherTags(readmeText);
-    
-    readmeText = insertTopicPills(readmeText)
-    
+
+    readmeText = insertTopicPills(readmeText);
+
     writeFileSync(OUTPUT_PATH, readmeText);
 })().catch(err => {
     console.error(err);
