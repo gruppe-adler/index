@@ -1,14 +1,8 @@
 # Gruppe Adler GitHub Index
-
-## Archived repositories
-All discontinued projects should be archived. This includes played missions and deprecated libraries.
+_This README is auto-generated checkout out `CONTRIBUTING.md` for more info._
 
 ## Topics
-All repositories in this organization should have the appropriate topics to keep the org easily searchable. We can't cover all repositories with common topics, but we can try to cover as many as possible.  
-**You can use as many topics as you like, but we ask you to at least include the topics according to the following guidelines:**  
-There are categories and modifiers. Each repository can have one category and any amount of modifiers.  
-  
-e.g. an Arma 3 Coop Mission would have <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amission"><img valign="middle" src="./img/topics/mission.svg" alt="mission" width="65.2119140625" height="22"></a>, <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Acoop"><img valign="middle" src="./img/topics/coop.svg" alt="coop" width="47.1513671875" height="22"></a> and <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg" alt="arma3" width="56.099609375" height="22"></a> (+ any further topics you like)
+To keep our organization easily searchable we use the following topics:
 
 ### Categories
 - Web related repositories: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg" alt="web" width="41.7919921875" height="22"></a> ([search non archived](https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb+archived%3Afalse))
