@@ -23,11 +23,11 @@ i.e. an Arma 3 Coop Mission would have <span data-topic="mission"></span>, <span
 - Arma 3 content (mods, libraries, missions): <span data-topic="arma3"></span> ([search organization](https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3+archived%3Afalse))
 
 
-## Arma 3 Mods (<span data-topic="mod"></span> & <span data-topic="arma3"></span>)
+## Arma 3 Mods
 <div data-list="mod arma3"></div>
 
-## Arma 3 Libraries (<span data-topic="library"></span> & <span data-topic="arma3"></span>)
+## Arma 3 Libraries
 <div data-list="library arma3"></div>
 
-## Web related projects (<span data-topic="web"></span>)
+## Web related projects
 <div data-list="web"></div>
