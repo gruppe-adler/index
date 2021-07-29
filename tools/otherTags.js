@@ -34,7 +34,7 @@ async function insertOtherTags(str) {
         const excludedTopic = excludedTopicStr.split(' ');
         const topicsCount = await TOPICS_COUNT_PROMISE;
 
-        return topicsCount.filter(([t]) => !excludedTopic.includes(t)).map(([topic, count]) => {
+        return topicsCount.filter(([t, c]) => c > 2 && !excludedTopic.includes(t)).map(([topic, count]) => {
             const link = generateQueryLink({ org: ORG_NAME, topics: [topic], archived: false });
 
             return `- <span data-topic="${topic}"></span> ${count} repositories ([search non archived](${link}))`
