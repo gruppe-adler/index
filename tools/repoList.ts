@@ -20,7 +20,7 @@ async function generateList (topics: string[]): Promise<string> {
 
     const renderedRepos = await Promise.all(repositories.map(renderRepo));
 
-    const reposStr = renderedRepos.length <= 8 ? renderedRepos.join('\n') : `${renderedRepos.slice(0, 6).join('\n')}<details align="center"><summary>Show more</summary>${renderedRepos.slice(6).join('\n')}</details>`;
+    const reposStr = renderedRepos.length <= 8 ? renderedRepos.join('\n') : `${renderedRepos.slice(0, 8).join('\n')}<details align="center"><summary>Show more</summary>${renderedRepos.slice(8).join('\n')}</details>`;
 
     return `${headline}\n<p align="center">\n${reposStr}\n</p>`;
 }
