@@ -1,3 +1,4 @@
 dist/
 tools/**/*.js
 node_modules/
+.env

@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - template
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   render:
@@ -29,8 +31,8 @@ jobs:
         cp -r ./img ./dist/img
         rm ./dist/img/repositories/.gitignore
         rm ./dist/img/topics/.gitignore
-    - name: Copy CONTRIBUTING
-      run: cp -r ./CONTRIBUTING ./dist/CONTRIBUTING
+    - name: Copy CONTRIBUTING.md
+      run: cp -r ./CONTRIBUTING.md ./dist/CONTRIBUTING.md
     - name: Deploy
       if: ${{ github.ref == 'refs/heads/template' }}
       uses: peaceiris/actions-gh-pages@v3

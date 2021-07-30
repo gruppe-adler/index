@@ -29,7 +29,7 @@ query ($queryStr: String!, $after:String) {
 }
 `;
 
-const octokit = github.getOctokit(process.env.GITHUB_TOKEN ?? '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');
+const octokit = github.getOctokit(process.env.GITHUB_TOKEN ?? '');
 
 interface BaseRepo {
     id: string;

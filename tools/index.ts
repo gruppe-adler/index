@@ -1,4 +1,9 @@
 import { join } from 'path';
+
+/* eslint-disable import/first */
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+require('dotenv').config({ path: join(__dirname, '..', '.env') });
+
 import { readFileSync, writeFileSync } from 'fs';
 import { insertTopicPills } from './topicPills';
 import { insertRepoList } from './repoList';
