@@ -57,7 +57,6 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad-moneyMenu"><img src="./img/repositories/grad-moneyMenu.svg" alt="grad-moneyMenu" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-dynGroupDecals"><img src="./img/repositories/grad-dynGroupDecals.svg" alt="grad-dynGroupDecals" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-factions-tvt"><img src="./img/repositories/grad-factions-tvt.svg" alt="grad-factions-tvt" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-sectors"><img src="./img/repositories/grad-sectors.svg" alt="grad-sectors" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-vehicleRespawn"><img src="./img/repositories/grad-vehicleRespawn.svg" alt="grad-vehicleRespawn" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-leaveNotes"><img src="./img/repositories/grad-leaveNotes.svg" alt="grad-leaveNotes" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-listBuymenu"><img src="./img/repositories/grad-listBuymenu.svg" alt="grad-listBuymenu" width="384" height="154"></a>

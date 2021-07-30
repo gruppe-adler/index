@@ -9,19 +9,19 @@ It takes the `README_TEMPLATE.md`, replaces some placeholder elements (see below
 
 ## README Placeholders
 ### Topic Pills
-```md
+```html
 <span data-topic="web"></span>
 ```
 A `span` element with an `data-topic` attribute will be replaced with a topic pill, which also acts as a link to that topic.
 
 ### Repository Lists
-```md
+```html
 <div data-list="mod arma3"></div>
 ```
 A `div` element with a `data-list` attribute will be replaced with a list of repositories in our organization matching those topics. The topics can be specified within the attribute value. Use spaces in between topis to specify multiple. Only public and non-archived repositories will be shown. Up to 8 repositories will be shown the rest will be hidden within a spoiler.
 
 ### Other topics
-```md
+```html
 <div data-other-topics="arma3 coop library mission mod template test tvt web"></div>
 ```
 A `div` element with a `data-other-topics` attribute will be replaced with a list of popular topics. You can specify a list of ignored topics in the attribute value (separated by spaces). We count only public and non-archived repositories. 
