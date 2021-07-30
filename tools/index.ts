@@ -1,4 +1,5 @@
 import { join } from 'path';
+import mkdirp from 'mkdirp';
 
 /* eslint-disable import/first */
 // eslint-disable-next-line @typescript-eslint/no-var-requires
@@ -8,12 +9,14 @@ import { readFileSync, writeFileSync } from 'fs';
 import { insertTopicPills } from './topicPills';
 import { insertRepoList } from './repoList';
 import { insertOtherTopics } from './otherTopics';
-
-const INPUT_PATH = join(__dirname, '..', 'README_TEMPLATE.md');
-const OUTPUT_PATH = join(__dirname, '..', 'dist', 'README.md');
+import { INPUT_PATH, OUTPUT_DIR, OUTPUT_PATH } from './utils/const';
 
 (async function () {
     let readmeText = readFileSync(INPUT_PATH, 'utf-8');
+
+    await mkdirp(OUTPUT_DIR);
+    await mkdirp(join(OUTPUT_DIR, 'img', 'topics'));
+    await mkdirp(join(OUTPUT_DIR, 'img', 'repositories'));
 
     readmeText = await insertRepoList(readmeText);
 

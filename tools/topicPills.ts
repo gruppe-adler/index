@@ -1,5 +1,5 @@
 import { generateQueryLink } from './utils/query';
-import { ORG_NAME } from './utils/const';
+import { IMG_DIR, ORG_NAME } from './utils/const';
 import { replaceAsync } from './utils';
 import { writeFileSync } from 'fs';
 import { join } from 'path';
@@ -35,7 +35,7 @@ async function generateTopicImage (topic: string): Promise<{url: string; width: 
     </svg>
     `;
 
-    writeFileSync(join(__dirname, '..', 'img', 'topics', `${topic}.svg`), svgText);
+    writeFileSync(join(IMG_DIR, 'topics', `${topic}.svg`), svgText);
 
     return { url: `./img/topics/${topic}.svg`, width, height };
 }

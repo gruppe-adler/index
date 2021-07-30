@@ -42,4 +42,7 @@ GITHUB_TOKEN=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
 3. Build code ```npm run build```
 4. Run code ```npm start```
 
+### Linter
+You can run eslint with ```npm run lint```
+
 The output can be found in the `dist` directory.

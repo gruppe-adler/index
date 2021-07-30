@@ -1,6 +1,6 @@
 import { writeFileSync } from 'fs';
 import { join } from 'path';
-import { ORG_NAME } from './utils/const';
+import { IMG_DIR, ORG_NAME } from './utils/const';
 import { getAllOrgRepos } from './utils/getAllRepos';
 import { replaceAsync, includesAll } from './utils';
 import escape from 'escape-html';
@@ -63,7 +63,7 @@ async function generateRepoImage (name: string, description: string, isTemplate:
     </svg>
     `;
 
-    writeFileSync(join(__dirname, '..', 'img', 'repositories', `${name}.svg`), svgText);
+    writeFileSync(join(IMG_DIR, 'repositories', `${name}.svg`), svgText);
 
     return { url: `./img/repositories/${name}.svg`, width: 384, height: 154 };
 }
