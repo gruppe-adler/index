@@ -1,12 +1,11 @@
 # Contributing to this repository
 
 ## Introduction
+**DO NOT CONTRIBUTE TO THE README.md DIRECTLY!**  
+The majority of the `README.md` in the `master` branch is auto generated. This is done via GitHub-Action on the `template` branch.
 
-The majority of the `README.md` in the `master` branch is auto generated. **DO NOT CONTRIBUTE TO THE README.md DIRECTLY**
-This is done via GitHub-Action on the [`template` branch](/tree/template).
-
-The workflow runs on every push to the `template`-branch and once per day at midnight.  
-It takes the `README_TEMPLATE.md`, replaces some placeholder elements (see below for further explanation) and then pushes it as `README.md` to the `master` branch.
+The workflow runs for every push to the `template`-branch and once per day at midnight.  
+It takes the `README_TEMPLATE.md`, replaces some placeholder elements (see below for further explanation) and then pushes it as `README.md` and all relevant assets to the `master` branch.
 
 ## README Placeholders
 ### Topic Pills
@@ -25,14 +24,14 @@ A `div` element with a `data-list` attribute will be replaced with a list of rep
 ```md
 <div data-other-topics="arma3 coop library mission mod template test tvt web"></div>
 ```
-A `div` element with a `data-other-topics` attribute will be replaced with a list of popular topics. You can specify a list of ignored topics in the attribute value. We count only public and non-archived repositories. 
+A `div` element with a `data-other-topics` attribute will be replaced with a list of popular topics. You can specify a list of ignored topics in the attribute value (separated by spaces). We count only public and non-archived repositories. 
 
 ## Contributing Code
-Everything described above is done with Typescript. This is a usually node / typescript setup. All code can be found in the `tools` directory.
+Everything described above is done with Typescript. This is a fairly standard node/typescript setup. All code can be found in the `tools` directory.
 
 ### Supplying a GitHub token
 The Code needs a GitHub token to make requests to the GitHub API. Usually GitHub Actions provide a usable token, but to run the code locally you have to provide your own.  
-First, generate a Personal Access Token [here](https://github.com/settings/tokens) (it does not need any scopes) and then set it as the `GITHUB_TOKEN` environment variable. Either by using export on unix or creating an `.env` file within the root directory of this repository which looks like this (but with your token of course):
+First, generate a Personal Access Token [here](https://github.com/settings/tokens) (it does not need any scopes) and then set it as the `GITHUB_TOKEN` environment variable. Either by using export on unix or creating an `.env` file within the root directory of this repository which looks like this (with your token of course):
 ```env
 GITHUB_TOKEN=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
 ```
