@@ -1,5 +1,5 @@
 # Gruppe Adler GitHub Index
-_This README is auto-generated checkout out `CONTRIBUTING.md` for more info._
+_This README is auto-generated checkout the `CONTRIBUTING`-file for more info._
 
 ## Topics
 To keep our organization easily searchable we use the following topics:
@@ -45,19 +45,19 @@ The list below includes all repositories, which aren't archived, not private and
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg" alt="library" width="54.212890625" height="22"></a> <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg" alt="arma3" width="56.099609375" height="22"></a>
 <p align="center">
 <a href="https://github.com/gruppe-adler/grad-randomizeMap"><img src="./img/repositories/grad-randomizeMap.svg" alt="grad-randomizeMap" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-randomizeMap"><img src="./img/repositories/grad-randomizeMap.svg" alt="grad-randomizeMap" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-loadout"><img src="./img/repositories/grad-loadout.svg" alt="grad-loadout" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-islandconfig"><img src="./img/repositories/grad-islandconfig.svg" alt="grad-islandconfig" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-persistence"><img src="./img/repositories/grad-persistence.svg" alt="grad-persistence" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-fortifications"><img src="./img/repositories/grad-fortifications.svg" alt="grad-fortifications" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-factions"><img src="./img/repositories/grad-factions.svg" alt="grad-factions" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-tvtsettings"><img src="./img/repositories/grad-tvtsettings.svg" alt="grad-tvtsettings" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad-introCam"><img src="./img/repositories/grad-introCam.svg" alt="grad-introCam" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-passport"><img src="./img/repositories/grad-passport.svg" alt="grad-passport" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad-tvtsettings"><img src="./img/repositories/grad-tvtsettings.svg" alt="grad-tvtsettings" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad-introCam"><img src="./img/repositories/grad-introCam.svg" alt="grad-introCam" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad-passport"><img src="./img/repositories/grad-passport.svg" alt="grad-passport" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-replay"><img src="./img/repositories/grad-replay.svg" alt="grad-replay" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-permaChoice"><img src="./img/repositories/grad-permaChoice.svg" alt="grad-permaChoice" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-moneyMenu"><img src="./img/repositories/grad-moneyMenu.svg" alt="grad-moneyMenu" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-dynGroupDecals"><img src="./img/repositories/grad-dynGroupDecals.svg" alt="grad-dynGroupDecals" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-factions-tvt"><img src="./img/repositories/grad-factions-tvt.svg" alt="grad-factions-tvt" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad-sectors"><img src="./img/repositories/grad-sectors.svg" alt="grad-sectors" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-vehicleRespawn"><img src="./img/repositories/grad-vehicleRespawn.svg" alt="grad-vehicleRespawn" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-leaveNotes"><img src="./img/repositories/grad-leaveNotes.svg" alt="grad-leaveNotes" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-listBuymenu"><img src="./img/repositories/grad-listBuymenu.svg" alt="grad-listBuymenu" width="384" height="154"></a>
