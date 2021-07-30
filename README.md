@@ -1,5 +1,5 @@
 # Gruppe Adler GitHub Index
-_This README is auto-generated checkout the `CONTRIBUTING`-file for more info._
+_This README is auto-generated checkout the [CONTRIBUTING.md](./CONTRIBUTING.md) for more info._
 
 ## Topics
 To keep our organization easily searchable we use the following topics:
