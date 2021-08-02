@@ -1,8 +1,8 @@
 # Contributing to this repository
 
 ## Introduction
-**DO NOT CONTRIBUTE TO THE README.md DIRECTLY!**  
-The majority of the `README.md` in the `master` branch is auto generated. This is done via GitHub-Action on the `template` branch.
+**DO NOT COMIT ANYTHING TO THE `Master` branch!**  
+Everything in the `master` branch is automatically generated via GitHub-Action on the `template` branch. Any changes must be commited to the `template` branch.
 
 The workflow runs for every push to the `template`-branch and once per day at midnight.  
 It takes the `README_TEMPLATE.md`, replaces some placeholder elements (see below for further explanation) and then pushes it as `README.md` and all relevant assets to the `master` branch.
