@@ -1,7 +1,7 @@
 # Contributing to this repository
 
 ## Introduction
-**DO NOT COMIT ANYTHING TO THE `Master` branch!**  
+**DO NOT COMIT ANYTHING TO THE `master` branch!**  
 Everything in the `master` branch is automatically generated via GitHub-Action on the `template` branch. Any changes must be commited to the `template` branch.
 
 The workflow runs for every push to the `template`-branch and once per day at midnight.  
