@@ -2,7 +2,7 @@
 
 ## Introduction
 **DO NOT COMMIT ANYTHING TO THE `master` BRANCH!**  
-Everything in the `master` branch is automatically generated via GitHub-Action on the `template` branch. Any changes must be commited to the `template` branch.
+Everything in the `master` branch is automatically generated off the `template` branch via GitHub actions. Any changes must be commited to the `template` branch.
 
 The workflow runs for every push to the `template`-branch and once per day at midnight.  
 It takes the `README_TEMPLATE.md`, replaces some placeholder elements (see below for further explanation) and then pushes it as `README.md` and all relevant assets to the `master` branch.
