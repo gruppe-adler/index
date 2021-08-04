@@ -14,7 +14,8 @@ jobs:
     steps:
     - name: 'Checkout the source code from GitHub'
       uses: actions/checkout@v2
-      ref: template
+      with:
+        ref: template
     - name: Install dependencies
       run: npm ci
     - name: Build
