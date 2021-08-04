@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - template
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest 
+    name: Render template
+    steps:
+    - name: 'Checkout the source code from GitHub'
+      uses: actions/checkout@v2
+      with:
+        ref: template
+    - name: Install dependencies
+      run: npm ci
+    - name: Build
+      run: npm run build
+    - name: Lint
+      run: npm run lint
+    - name: Render README.md
+      run: npm start
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Copy CONTRIBUTING.md
+      run: cp ./CONTRIBUTING.md ./dist/
+    - name: Copy GitHub Actions # Scheduled workflows only run on master branch :(
+      run: cp -r ./.github ./dist/
+    - name: Deploy
+      if: ${{ github.ref == 'refs/heads/template' }}
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: master
+        publish_dir: ./dist
+        enable_jekyll: true
+        exclude_assets: ''
