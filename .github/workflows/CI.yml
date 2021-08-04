@@ -38,3 +38,4 @@ jobs:
         publish_branch: master
         publish_dir: ./dist
         enable_jekyll: true
+        exclude_assets: ''
