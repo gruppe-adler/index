@@ -5,7 +5,8 @@
 Everything in the `master` branch is automatically generated off the `template` branch via GitHub actions. Any changes must be commited to the `template` branch.
 
 The workflow runs for every push to the `template`-branch and once per day at midnight.  
-It takes the `README_TEMPLATE.md`, replaces some placeholder elements (see below for further explanation) and then pushes it as `README.md` and all relevant assets to the `master` branch.
+It takes the `README_TEMPLATE.md`, replaces some placeholder elements (see below for further explanation) and then pushes it as `README.md` and all relevant assets to the `master` branch.  
+Also the GitHub Action workflows are copied to the `master` branch, because scheduled workflows only trigger on the default branch.
 
 ## README Placeholders
 ### Topic Pills
