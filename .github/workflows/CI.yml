@@ -14,6 +14,7 @@ jobs:
     steps:
     - name: 'Checkout the source code from GitHub'
       uses: actions/checkout@v2
+      ref: template
     - name: Install dependencies
       run: npm ci
     - name: Build
@@ -26,6 +27,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Copy CONTRIBUTING.md
       run: cp ./CONTRIBUTING.md ./dist/CONTRIBUTING.md
+    - name: Copy GitHub Actions # Scheduled workflows only run on master branch :(
+      run: cp -r ./.github ./dist/.github
     - name: Deploy
       if: ${{ github.ref == 'refs/heads/template' }}
       uses: peaceiris/actions-gh-pages@v3
