@@ -5,7 +5,7 @@ import { getAllOrgRepos } from './utils/getAllRepos';
 import { replaceAsync, includesAll } from './utils';
 import escape from 'escape-html';
 
-const REPO_LIST_PATTERN = /<div [^>]*data-list="([a-z0-9-_\s]+)"[^>]*>[^<]*<\/div>/gi;
+const REPO_LIST_PATTERN = /<div [^>]*data-repo-list="([a-z0-9-_\s]+)"[^>]*>[^<]*<\/div>/gi;
 
 /**
  * @param topics List topics

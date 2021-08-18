@@ -18,13 +18,13 @@ To keep our organization easily searchable we use the following topics:
 
 
 ## Arma 3 Mods
-<div data-list="mod arma3"></div>
+<div data-repo-list="mod arma3"></div>
 
 ## Arma 3 Libraries
-<div data-list="library arma3"></div>
+<div data-repo-list="library arma3"></div>
 
 ## Web related projects
-<div data-list="web"></div>
+<div data-repo-list="web"></div>
 
 ## Other popular topics
 <div data-other-topics="arma3 coop library mission mod template test tvt web"></div>

@@ -17,9 +17,9 @@ A `span` element with an `data-topic` attribute will be replaced with a topic pi
 
 ### Repository Lists
 ```html
-<div data-list="mod arma3"></div>
+<div data-repo-list="mod arma3"></div>
 ```
-A `div` element with a `data-list` attribute will be replaced with a list of repositories in our organization matching those topics. The topics can be specified within the attribute value. Use spaces in between topics to specify multiple. Only public and non-archived repositories will be listed. Up to 8 repositories will be shown the rest will be hidden within a spoiler.
+A `div` element with a `data-repo-list` attribute will be replaced with a list of repositories in our organization matching those topics. The topics can be specified within the attribute value. Use spaces in between topics to specify multiple. Only public and non-archived repositories will be listed. Up to 8 repositories will be shown the rest will be hidden within a spoiler.
 
 ### Other topics
 ```html
