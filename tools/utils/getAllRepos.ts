@@ -78,7 +78,7 @@ async function runQuery (queryStr: string, repos: Repo[] = [], after?: string): 
 
     const newAfter = result.search.edges[result.search.edges.length - 1].cursor;
 
-    return runQuery(queryStr, repos, newAfter);
+    return await runQuery(queryStr, repos, newAfter);
 };
 
 const ORG_REPOSITORIES_PROMISE = runQuery(generateQueryString({ org: ORG_NAME })).then(repos => {
