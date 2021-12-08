@@ -1,8 +1,8 @@
 {
-  "name": "auto-readme-test",
+  "name": "@gruppe-adler/github-index",
+  "private": true,
   "version": "1.0.0",
-  "description": "## Archived repositories All discontinued projects should be archived. This includes played missions and deprecated libraries.",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
     "start": "node ./tools/index.js",
@@ -10,11 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@DerZade.github.com:DerZade/auto-readme-test.git"
+    "url": "https://github.com/gruppe-adler/index.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Gruppe Adler",
   "dependencies": {
     "@actions/github": "^5.0.0",
     "escape-html": "^1.0.3",

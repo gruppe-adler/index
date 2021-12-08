@@ -59,7 +59,7 @@ async function generateRepoImage (name: string, description: string, isTemplate:
         </foreignObject>
         <text x="24" y="93" alignment-baseline="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-size="14px" fill="#C9D1D9">Your SVG viewer cannot display html.</text>
     </switch>
-    <rect x="0.5" y="0.5" width="383" height="153" rx="5.5" stroke="#30363D"/>
+    <rect x="0.5" y="0.5" width="383" height="153" rx="5.5" stroke="#30363D" fill="#0d1117" />
     </svg>
     `;
 
