@@ -20,14 +20,16 @@ To keep our organization easily searchable we use the following topics:
 ## Arma 3 Mods
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg" alt="mod" width="44.150390625" height="22"></a> <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg" alt="arma3" width="56.099609375" height="22"></a>
 <p align="center">
+<a href="https://github.com/gruppe-adler/grad_tfarAutoswitch"><img src="./img/repositories/grad_tfarAutoswitch.svg" alt="grad_tfarAutoswitch" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_civs"><img src="./img/repositories/grad_civs.svg" alt="grad_civs" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_meh"><img src="./img/repositories/grad_meh.svg" alt="grad_meh" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad_gm_cannonTweak"><img src="./img/repositories/grad_gm_cannonTweak.svg" alt="grad_gm_cannonTweak" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad_terrainMasks"><img src="./img/repositories/grad_terrainMasks.svg" alt="grad_terrainMasks" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/gruppe_adler_mod"><img src="./img/repositories/gruppe_adler_mod.svg" alt="gruppe_adler_mod" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_trenches"><img src="./img/repositories/grad_trenches.svg" alt="grad_trenches" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_slingHelmet"><img src="./img/repositories/grad_slingHelmet.svg" alt="grad_slingHelmet" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_stasi"><img src="./img/repositories/grad_stasi.svg" alt="grad_stasi" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad_slingHelmet"><img src="./img/repositories/grad_slingHelmet.svg" alt="grad_slingHelmet" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad_stasi"><img src="./img/repositories/grad_stasi.svg" alt="grad_stasi" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_apobs"><img src="./img/repositories/grad_apobs.svg" alt="grad_apobs" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_gm_trabi"><img src="./img/repositories/grad_gm_trabi.svg" alt="grad_gm_trabi" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad_gm_cannonTweak"><img src="./img/repositories/grad_gm_cannonTweak.svg" alt="grad_gm_cannonTweak" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad_gm_trabi"><img src="./img/repositories/grad_gm_trabi.svg" alt="grad_gm_trabi" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_paceCountBeads"><img src="./img/repositories/grad_paceCountBeads.svg" alt="grad_paceCountBeads" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_minui"><img src="./img/repositories/grad_minui.svg" alt="grad_minui" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_adminMessages"><img src="./img/repositories/grad_adminMessages.svg" alt="grad_adminMessages" width="384" height="154"></a>
@@ -41,9 +43,7 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad_intercept_template"><img src="./img/repositories/grad_intercept_template.svg" alt="grad_intercept_template" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_replay_intercept"><img src="./img/repositories/grad_replay_intercept.svg" alt="grad_replay_intercept" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_endgame"><img src="./img/repositories/grad_endgame.svg" alt="grad_endgame" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/tfar_autoswitch"><img src="./img/repositories/tfar_autoswitch.svg" alt="tfar_autoswitch" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_enhancedDiving"><img src="./img/repositories/grad_enhancedDiving.svg" alt="grad_enhancedDiving" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_mtg"><img src="./img/repositories/grad_mtg.svg" alt="grad_mtg" width="384" height="154"></a></details>
+<a href="https://github.com/gruppe-adler/grad_enhancedDiving"><img src="./img/repositories/grad_enhancedDiving.svg" alt="grad_enhancedDiving" width="384" height="154"></a></details>
 </p>
 
 ## Arma 3 Libraries
@@ -100,7 +100,7 @@ The list below includes all repositories, which aren't archived, not private and
 </p>
 
 ## Other popular topics
-- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amaps"><img valign="middle" src="./img/topics/maps.svg" alt="maps" width="50.958984375" height="22"></a> 7 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Amaps))
+- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amaps"><img valign="middle" src="./img/topics/maps.svg" alt="maps" width="50.958984375" height="22"></a> 6 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Amaps))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Agrad-aff"><img valign="middle" src="./img/topics/grad-aff.svg" alt="grad-aff" width="65.02734375" height="22"></a> 5 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Agrad-aff))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aintercept"><img valign="middle" src="./img/topics/intercept.svg" alt="intercept" width="70.892578125" height="22"></a> 4 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aintercept))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Apaa"><img valign="middle" src="./img/topics/paa.svg" alt="paa" width="39.0849609375" height="22"></a> 4 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Apaa))
