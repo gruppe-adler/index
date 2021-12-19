@@ -31,7 +31,7 @@ jobs:
     - name: Copy GitHub Actions # Scheduled workflows only run on master branch :(
       run: cp -r ./.github ./dist/
     - name: Deploy
-      if: ${{ github.ref == 'refs/heads/template' }}
+      if: ${{ github.ref == 'refs/heads/master' || github.ref == 'refs/heads/template' }}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
