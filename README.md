@@ -36,7 +36,6 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad_terrainMasks"><img src="./img/repositories/grad_terrainMasks.svg" alt="grad_terrainMasks" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_stasi"><img src="./img/repositories/grad_stasi.svg" alt="grad_stasi" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_gm_trabi"><img src="./img/repositories/grad_gm_trabi.svg" alt="grad_gm_trabi" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_paceCountBeads"><img src="./img/repositories/grad_paceCountBeads.svg" alt="grad_paceCountBeads" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_minui"><img src="./img/repositories/grad_minui.svg" alt="grad_minui" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_zeusInformation"><img src="./img/repositories/grad_zeusInformation.svg" alt="grad_zeusInformation" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_adminMessages"><img src="./img/repositories/grad_adminMessages.svg" alt="grad_adminMessages" width="384" height="154"></a>
@@ -83,9 +82,9 @@ The list below includes all repositories, which aren't archived, not private and
 ## Web related projects
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg" alt="web" width="41.7919921875" height="22"></a>
 <p align="center">
-<a href="https://github.com/gruppe-adler/nodebb-plugin-arma3-slotting"><img src="./img/repositories/nodebb-plugin-arma3-slotting.svg" alt="nodebb-plugin-arma3-slotting" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/nodebb-theme-gruppe-adler"><img src="./img/repositories/nodebb-theme-gruppe-adler.svg" alt="nodebb-theme-gruppe-adler" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/nodebb-plugin-attendance"><img src="./img/repositories/nodebb-plugin-attendance.svg" alt="nodebb-plugin-attendance" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/nodebb-theme-gruppe-adler"><img src="./img/repositories/nodebb-theme-gruppe-adler.svg" alt="nodebb-theme-gruppe-adler" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/nodebb-plugin-arma3-slotting"><img src="./img/repositories/nodebb-plugin-arma3-slotting.svg" alt="nodebb-plugin-arma3-slotting" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/slotting.gruppe-adler.de"><img src="./img/repositories/slotting.gruppe-adler.de.svg" alt="slotting.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/wiki.gruppe-adler.de"><img src="./img/repositories/wiki.gruppe-adler.de.svg" alt="wiki.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/paa.gruppe-adler.de"><img src="./img/repositories/paa.gruppe-adler.de.svg" alt="paa.gruppe-adler.de" width="384" height="154"></a>
