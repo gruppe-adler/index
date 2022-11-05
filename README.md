@@ -36,6 +36,7 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad_terrainMasks"><img src="./img/repositories/grad_terrainMasks.svg" alt="grad_terrainMasks" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_stasi"><img src="./img/repositories/grad_stasi.svg" alt="grad_stasi" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_gm_trabi"><img src="./img/repositories/grad_gm_trabi.svg" alt="grad_gm_trabi" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad_paceCountBeads"><img src="./img/repositories/grad_paceCountBeads.svg" alt="grad_paceCountBeads" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_minui"><img src="./img/repositories/grad_minui.svg" alt="grad_minui" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_zeusInformation"><img src="./img/repositories/grad_zeusInformation.svg" alt="grad_zeusInformation" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_adminMessages"><img src="./img/repositories/grad_adminMessages.svg" alt="grad_adminMessages" width="384" height="154"></a>
