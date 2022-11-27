@@ -83,8 +83,8 @@ The list below includes all repositories, which aren't archived, not private and
 ## Web related projects
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg" alt="web" width="41.7919921875" height="22"></a>
 <p align="center">
-<a href="https://github.com/gruppe-adler/nodebb-plugin-attendance"><img src="./img/repositories/nodebb-plugin-attendance.svg" alt="nodebb-plugin-attendance" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/nodebb-theme-gruppe-adler"><img src="./img/repositories/nodebb-theme-gruppe-adler.svg" alt="nodebb-theme-gruppe-adler" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/nodebb-plugin-attendance"><img src="./img/repositories/nodebb-plugin-attendance.svg" alt="nodebb-plugin-attendance" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/stasi.gruppe-adler.de"><img src="./img/repositories/stasi.gruppe-adler.de.svg" alt="stasi.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/nodebb-plugin-arma3-slotting"><img src="./img/repositories/nodebb-plugin-arma3-slotting.svg" alt="nodebb-plugin-arma3-slotting" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/gruppe-adler.de"><img src="./img/repositories/gruppe-adler.de.svg" alt="gruppe-adler.de" width="384" height="154"></a>
