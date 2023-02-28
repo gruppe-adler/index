@@ -47,6 +47,7 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad_captiveWalking"><img src="./img/repositories/grad_captiveWalking.svg" alt="grad_captiveWalking" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_replay_intercept"><img src="./img/repositories/grad_replay_intercept.svg" alt="grad_replay_intercept" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_endgame"><img src="./img/repositories/grad_endgame.svg" alt="grad_endgame" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad_enhancedDiving"><img src="./img/repositories/grad_enhancedDiving.svg" alt="grad_enhancedDiving" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_enhancedDiving"><img src="./img/repositories/grad_enhancedDiving.svg" alt="grad_enhancedDiving" width="384" height="154"></a></details>
 </p>
 
@@ -62,7 +63,6 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad-factions"><img src="./img/repositories/grad-factions.svg" alt="grad-factions" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-randomizeMap"><img src="./img/repositories/grad-randomizeMap.svg" alt="grad-randomizeMap" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad-fortifications"><img src="./img/repositories/grad-fortifications.svg" alt="grad-fortifications" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-tvtsettings"><img src="./img/repositories/grad-tvtsettings.svg" alt="grad-tvtsettings" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-passport"><img src="./img/repositories/grad-passport.svg" alt="grad-passport" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-replay"><img src="./img/repositories/grad-replay.svg" alt="grad-replay" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-permaChoice"><img src="./img/repositories/grad-permaChoice.svg" alt="grad-permaChoice" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-moneyMenu"><img src="./img/repositories/grad-moneyMenu.svg" alt="grad-moneyMenu" width="384" height="154"></a>
@@ -71,12 +71,11 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad-vehicleRespawn"><img src="./img/repositories/grad-vehicleRespawn.svg" alt="grad-vehicleRespawn" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-leaveNotes"><img src="./img/repositories/grad-leaveNotes.svg" alt="grad-leaveNotes" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-listBuymenu"><img src="./img/repositories/grad-listBuymenu.svg" alt="grad-listBuymenu" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-heligame"><img src="./img/repositories/grad-heligame.svg" alt="grad-heligame" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-advancedLockpicking"><img src="./img/repositories/grad-advancedLockpicking.svg" alt="grad-advancedLockpicking" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-vehicleSpawner"><img src="./img/repositories/grad-vehicleSpawner.svg" alt="grad-vehicleSpawner" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-gpsTracker"><img src="./img/repositories/grad-gpsTracker.svg" alt="grad-gpsTracker" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-scoreboard"><img src="./img/repositories/grad-scoreboard.svg" alt="grad-scoreboard" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-winrateTracker"><img src="./img/repositories/grad-winrateTracker.svg" alt="grad-winrateTracker" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad-scoreboard"><img src="./img/repositories/grad-scoreboard.svg" alt="grad-scoreboard" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-makeFire"><img src="./img/repositories/grad-makeFire.svg" alt="grad-makeFire" width="384" height="154"></a></details>
 </p>
 
@@ -85,13 +84,12 @@ The list below includes all repositories, which aren't archived, not private and
 <p align="center">
 <a href="https://github.com/gruppe-adler/nodebb-plugin-arma3-slotting"><img src="./img/repositories/nodebb-plugin-arma3-slotting.svg" alt="nodebb-plugin-arma3-slotting" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/nodebb-theme-gruppe-adler"><img src="./img/repositories/nodebb-theme-gruppe-adler.svg" alt="nodebb-theme-gruppe-adler" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/arma3sync-web-admin"><img src="./img/repositories/arma3sync-web-admin.svg" alt="arma3sync-web-admin" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/paa.gruppe-adler.de"><img src="./img/repositories/paa.gruppe-adler.de.svg" alt="paa.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/wiki.gruppe-adler.de"><img src="./img/repositories/wiki.gruppe-adler.de.svg" alt="wiki.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/stasi.gruppe-adler.de"><img src="./img/repositories/stasi.gruppe-adler.de.svg" alt="stasi.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/nodebb-plugin-attendance"><img src="./img/repositories/nodebb-plugin-attendance.svg" alt="nodebb-plugin-attendance" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/gruppe-adler.de"><img src="./img/repositories/gruppe-adler.de.svg" alt="gruppe-adler.de" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/slotting.gruppe-adler.de"><img src="./img/repositories/slotting.gruppe-adler.de.svg" alt="slotting.gruppe-adler.de" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/replay.gruppe-adler.de"><img src="./img/repositories/replay.gruppe-adler.de.svg" alt="replay.gruppe-adler.de" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/gruppe-adler.de"><img src="./img/repositories/gruppe-adler.de.svg" alt="gruppe-adler.de" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/slotting.gruppe-adler.de"><img src="./img/repositories/slotting.gruppe-adler.de.svg" alt="slotting.gruppe-adler.de" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/replay.gruppe-adler.de"><img src="./img/repositories/replay.gruppe-adler.de.svg" alt="replay.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/mod-marketing.gruppe-adler.de"><img src="./img/repositories/mod-marketing.gruppe-adler.de.svg" alt="mod-marketing.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/navbar-component"><img src="./img/repositories/navbar-component.svg" alt="navbar-component" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/webhook.gruppe-adler.de"><img src="./img/repositories/webhook.gruppe-adler.de.svg" alt="webhook.gruppe-adler.de" width="384" height="154"></a>
