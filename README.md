@@ -20,14 +20,15 @@ To keep our organization easily searchable we use the following topics:
 ## Arma 3 Mods
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg" alt="mod" width="44.150390625" height="22"></a> <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg" alt="arma3" width="56.099609375" height="22"></a>
 <p align="center">
+<a href="https://github.com/gruppe-adler/grad_replay_intercept"><img src="./img/repositories/grad_replay_intercept.svg" alt="grad_replay_intercept" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_meh"><img src="./img/repositories/grad_meh.svg" alt="grad_meh" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_trenches"><img src="./img/repositories/grad_trenches.svg" alt="grad_trenches" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_civs"><img src="./img/repositories/grad_civs.svg" alt="grad_civs" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_telephone"><img src="./img/repositories/grad_telephone.svg" alt="grad_telephone" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_animalTransport"><img src="./img/repositories/grad_animalTransport.svg" alt="grad_animalTransport" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_apobs"><img src="./img/repositories/grad_apobs.svg" alt="grad_apobs" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/gruppe_adler_mod"><img src="./img/repositories/gruppe_adler_mod.svg" alt="gruppe_adler_mod" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_paceCountBeads"><img src="./img/repositories/grad_paceCountBeads.svg" alt="grad_paceCountBeads" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad_clipOverlay"><img src="./img/repositories/grad_clipOverlay.svg" alt="grad_clipOverlay" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/gruppe_adler_mod"><img src="./img/repositories/gruppe_adler_mod.svg" alt="gruppe_adler_mod" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad_paceCountBeads"><img src="./img/repositories/grad_paceCountBeads.svg" alt="grad_paceCountBeads" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad_clipOverlay"><img src="./img/repositories/grad_clipOverlay.svg" alt="grad_clipOverlay" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_captiveWalking"><img src="./img/repositories/grad_captiveWalking.svg" alt="grad_captiveWalking" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_slingHelmet"><img src="./img/repositories/grad_slingHelmet.svg" alt="grad_slingHelmet" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_modTemplate"><img src="./img/repositories/grad_modTemplate.svg" alt="grad_modTemplate" width="384" height="154"></a>
@@ -43,8 +44,7 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad_zeusInformation"><img src="./img/repositories/grad_zeusInformation.svg" alt="grad_zeusInformation" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_adminMessages"><img src="./img/repositories/grad_adminMessages.svg" alt="grad_adminMessages" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_extras"><img src="./img/repositories/grad_extras.svg" alt="grad_extras" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_sandstorm"><img src="./img/repositories/grad_sandstorm.svg" alt="grad_sandstorm" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_replay_intercept"><img src="./img/repositories/grad_replay_intercept.svg" alt="grad_replay_intercept" width="384" height="154"></a></details>
+<a href="https://github.com/gruppe-adler/grad_sandstorm"><img src="./img/repositories/grad_sandstorm.svg" alt="grad_sandstorm" width="384" height="154"></a></details>
 </p>
 
 ## Arma 3 Libraries
