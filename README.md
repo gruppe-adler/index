@@ -49,8 +49,8 @@ The list below includes all repositories, which aren't archived, not private and
 ## Arma 3 Libraries
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Alibrary"><img valign="middle" src="./img/topics/library.svg" alt="library" width="54.212890625" height="22"></a> <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg" alt="arma3" width="56.099609375" height="22"></a>
 <p align="center">
-<a href="https://github.com/gruppe-adler/grad-islandconfig"><img src="./img/repositories/grad-islandconfig.svg" alt="grad-islandconfig" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-factions-tvt"><img src="./img/repositories/grad-factions-tvt.svg" alt="grad-factions-tvt" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad-islandconfig"><img src="./img/repositories/grad-islandconfig.svg" alt="grad-islandconfig" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-persistence"><img src="./img/repositories/grad-persistence.svg" alt="grad-persistence" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-introCam"><img src="./img/repositories/grad-introCam.svg" alt="grad-introCam" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-loadout"><img src="./img/repositories/grad-loadout.svg" alt="grad-loadout" width="384" height="154"></a>
