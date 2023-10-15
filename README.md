@@ -80,9 +80,9 @@ The list below includes all repositories, which aren't archived, not private and
 ## Web related projects
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg" alt="web" width="41.7919921875" height="22"></a>
 <p align="center">
+<a href="https://github.com/gruppe-adler/wiki.gruppe-adler.de"><img src="./img/repositories/wiki.gruppe-adler.de.svg" alt="wiki.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/stasi.gruppe-adler.de"><img src="./img/repositories/stasi.gruppe-adler.de.svg" alt="stasi.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/gruppe-adler.de"><img src="./img/repositories/gruppe-adler.de.svg" alt="gruppe-adler.de" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/wiki.gruppe-adler.de"><img src="./img/repositories/wiki.gruppe-adler.de.svg" alt="wiki.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/navbar-component"><img src="./img/repositories/navbar-component.svg" alt="navbar-component" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/paa.gruppe-adler.de"><img src="./img/repositories/paa.gruppe-adler.de.svg" alt="paa.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/nodebb-plugin-attendance"><img src="./img/repositories/nodebb-plugin-attendance.svg" alt="nodebb-plugin-attendance" width="384" height="154"></a>
@@ -95,9 +95,9 @@ The list below includes all repositories, which aren't archived, not private and
 </p>
 
 ## Other popular topics
+- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma"><img valign="middle" src="./img/topics/arma.svg" alt="arma" width="48.23828125" height="22"></a> 5 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aarma))
+- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Areforger"><img valign="middle" src="./img/topics/reforger.svg" alt="reforger" width="65.4853515625" height="22"></a> 5 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Areforger))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Agrad-aff"><img valign="middle" src="./img/topics/grad-aff.svg" alt="grad-aff" width="65.02734375" height="22"></a> 5 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Agrad-aff))
-- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Areforger"><img valign="middle" src="./img/topics/reforger.svg" alt="reforger" width="65.4853515625" height="22"></a> 4 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Areforger))
-- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma"><img valign="middle" src="./img/topics/arma.svg" alt="arma" width="48.23828125" height="22"></a> 4 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aarma))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Apaa"><img valign="middle" src="./img/topics/paa.svg" alt="paa" width="39.0849609375" height="22"></a> 4 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Apaa))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aintercept"><img valign="middle" src="./img/topics/intercept.svg" alt="intercept" width="70.892578125" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aintercept))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Anodebb"><img valign="middle" src="./img/topics/nodebb.svg" alt="nodebb" width="62.73046875" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Anodebb))
