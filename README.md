@@ -30,7 +30,6 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad_apobs"><img src="./img/repositories/grad_apobs.svg" alt="grad_apobs" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad_paceCountBeads"><img src="./img/repositories/grad_paceCountBeads.svg" alt="grad_paceCountBeads" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_clipOverlay"><img src="./img/repositories/grad_clipOverlay.svg" alt="grad_clipOverlay" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_captiveWalking"><img src="./img/repositories/grad_captiveWalking.svg" alt="grad_captiveWalking" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_captiveWalking"><img src="./img/repositories/grad_captiveWalking.svg" alt="grad_captiveWalking" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_slingHelmet"><img src="./img/repositories/grad_slingHelmet.svg" alt="grad_slingHelmet" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_modTemplate"><img src="./img/repositories/grad_modTemplate.svg" alt="grad_modTemplate" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/ats_dev_build"><img src="./img/repositories/ats_dev_build.svg" alt="ats_dev_build" width="384" height="154"></a>
@@ -72,8 +71,10 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad-heligame"><img src="./img/repositories/grad-heligame.svg" alt="grad-heligame" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-advancedLockpicking"><img src="./img/repositories/grad-advancedLockpicking.svg" alt="grad-advancedLockpicking" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-vehicleSpawner"><img src="./img/repositories/grad-vehicleSpawner.svg" alt="grad-vehicleSpawner" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad-gpsTracker"><img src="./img/repositories/grad-gpsTracker.svg" alt="grad-gpsTracker" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad-scoreboard"><img src="./img/repositories/grad-scoreboard.svg" alt="grad-scoreboard" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad-winrateTracker"><img src="./img/repositories/grad-winrateTracker.svg" alt="grad-winrateTracker" width="384" height="154"></a></details>
+<a href="https://github.com/gruppe-adler/grad-winrateTracker"><img src="./img/repositories/grad-winrateTracker.svg" alt="grad-winrateTracker" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/grad-makeFire"><img src="./img/repositories/grad-makeFire.svg" alt="grad-makeFire" width="384" height="154"></a></details>
 </p>
 
 ## Web related projects
@@ -81,25 +82,26 @@ The list below includes all repositories, which aren't archived, not private and
 <p align="center">
 <a href="https://github.com/gruppe-adler/wiki.gruppe-adler.de"><img src="./img/repositories/wiki.gruppe-adler.de.svg" alt="wiki.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/webhook.gruppe-adler.de"><img src="./img/repositories/webhook.gruppe-adler.de.svg" alt="webhook.gruppe-adler.de" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/gruppe-adler.de"><img src="./img/repositories/gruppe-adler.de.svg" alt="gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/paa.gruppe-adler.de"><img src="./img/repositories/paa.gruppe-adler.de.svg" alt="paa.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/stasi.gruppe-adler.de"><img src="./img/repositories/stasi.gruppe-adler.de.svg" alt="stasi.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/navbar-component"><img src="./img/repositories/navbar-component.svg" alt="navbar-component" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/nodebb-plugin-attendance"><img src="./img/repositories/nodebb-plugin-attendance.svg" alt="nodebb-plugin-attendance" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/nodebb-plugin-arma3-slotting"><img src="./img/repositories/nodebb-plugin-arma3-slotting.svg" alt="nodebb-plugin-arma3-slotting" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_aff_wasm"><img src="./img/repositories/grad_aff_wasm.svg" alt="grad_aff_wasm" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/nodebb-theme-gruppe-adler"><img src="./img/repositories/nodebb-theme-gruppe-adler.svg" alt="nodebb-theme-gruppe-adler" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/nodebb-plugin-arma3-slotting"><img src="./img/repositories/nodebb-plugin-arma3-slotting.svg" alt="nodebb-plugin-arma3-slotting" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad_aff_wasm"><img src="./img/repositories/grad_aff_wasm.svg" alt="grad_aff_wasm" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/nodebb-theme-gruppe-adler"><img src="./img/repositories/nodebb-theme-gruppe-adler.svg" alt="nodebb-theme-gruppe-adler" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/arma3sync-web-admin"><img src="./img/repositories/arma3sync-web-admin.svg" alt="arma3sync-web-admin" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/slotting.gruppe-adler.de"><img src="./img/repositories/slotting.gruppe-adler.de.svg" alt="slotting.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/mod-marketing.gruppe-adler.de"><img src="./img/repositories/mod-marketing.gruppe-adler.de.svg" alt="mod-marketing.gruppe-adler.de" width="384" height="154"></a></details>
 </p>
 
 ## Other popular topics
+- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma"><img valign="middle" src="./img/topics/arma.svg" alt="arma" width="48.23828125" height="22"></a> 6 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aarma))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Areforger"><img valign="middle" src="./img/topics/reforger.svg" alt="reforger" width="65.4853515625" height="22"></a> 6 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Areforger))
-- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma"><img valign="middle" src="./img/topics/arma.svg" alt="arma" width="48.23828125" height="22"></a> 5 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aarma))
-- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Agrad-aff"><img valign="middle" src="./img/topics/grad-aff.svg" alt="grad-aff" width="65.02734375" height="22"></a> 4 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Agrad-aff))
+- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Agrad-aff"><img valign="middle" src="./img/topics/grad-aff.svg" alt="grad-aff" width="65.02734375" height="22"></a> 5 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Agrad-aff))
+- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Apaa"><img valign="middle" src="./img/topics/paa.svg" alt="paa" width="39.0849609375" height="22"></a> 4 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Apaa))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma-reforger"><img valign="middle" src="./img/topics/arma-reforger.svg" alt="arma-reforger" width="101.5859375" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aarma-reforger))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aenforce-script"><img valign="middle" src="./img/topics/enforce-script.svg" alt="enforce-script" width="102.310546875" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aenforce-script))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aenfusion"><img valign="middle" src="./img/topics/enfusion.svg" alt="enfusion" width="70.044921875" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aenfusion))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aintercept"><img valign="middle" src="./img/topics/intercept.svg" alt="intercept" width="70.892578125" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aintercept))
-- <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Apaa"><img valign="middle" src="./img/topics/paa.svg" alt="paa" width="39.0849609375" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Apaa))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aaction"><img valign="middle" src="./img/topics/action.svg" alt="action" width="54.623046875" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Aaction))
 - <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Anodebb"><img valign="middle" src="./img/topics/nodebb.svg" alt="nodebb" width="62.73046875" height="22"></a> 3 repositories ([search non archived](https://github.com/search?q=org%3Agruppe-adler+archived%3Afalse+topic%3Anodebb))
