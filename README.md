@@ -20,9 +20,9 @@ To keep our organization easily searchable we use the following topics:
 ## Arma 3 Mods
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Amod"><img valign="middle" src="./img/topics/mod.svg" alt="mod" width="44.150390625" height="22"></a> <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aarma3"><img valign="middle" src="./img/topics/arma3.svg" alt="arma3" width="56.099609375" height="22"></a>
 <p align="center">
+<a href="https://github.com/gruppe-adler/grad_civs"><img src="./img/repositories/grad_civs.svg" alt="grad_civs" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_telephone"><img src="./img/repositories/grad_telephone.svg" alt="grad_telephone" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_apobs"><img src="./img/repositories/grad_apobs.svg" alt="grad_apobs" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_civs"><img src="./img/repositories/grad_civs.svg" alt="grad_civs" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_D30_artilleryTweak"><img src="./img/repositories/grad_D30_artilleryTweak.svg" alt="grad_D30_artilleryTweak" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_trenches"><img src="./img/repositories/grad_trenches.svg" alt="grad_trenches" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_slingHelmet"><img src="./img/repositories/grad_slingHelmet.svg" alt="grad_slingHelmet" width="384" height="154"></a>
