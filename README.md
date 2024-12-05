@@ -28,7 +28,6 @@ The list below includes all repositories, which aren't archived, not private and
 <a href="https://github.com/gruppe-adler/grad_telephone"><img src="./img/repositories/grad_telephone.svg" alt="grad_telephone" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_endgame"><img src="./img/repositories/grad_endgame.svg" alt="grad_endgame" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_animalTransport"><img src="./img/repositories/grad_animalTransport.svg" alt="grad_animalTransport" width="384" height="154"></a><details align="center"><summary>Show more</summary><a href="https://github.com/gruppe-adler/grad_clipOverlay"><img src="./img/repositories/grad_clipOverlay.svg" alt="grad_clipOverlay" width="384" height="154"></a>
-<a href="https://github.com/gruppe-adler/grad_captiveWalking"><img src="./img/repositories/grad_captiveWalking.svg" alt="grad_captiveWalking" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_modTemplate"><img src="./img/repositories/grad_modTemplate.svg" alt="grad_modTemplate" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/ats_dev_build"><img src="./img/repositories/ats_dev_build.svg" alt="ats_dev_build" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/grad_prism"><img src="./img/repositories/grad_prism.svg" alt="grad_prism" width="384" height="154"></a>
