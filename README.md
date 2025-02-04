@@ -77,8 +77,8 @@ The list below includes all repositories, which aren't archived, not private and
 ## Web related projects
 The list below includes all repositories, which aren't archived, not private and have the following topics: <a href="https://github.com/search?q=org%3Agruppe-adler+topic%3Aweb"><img valign="middle" src="./img/topics/web.svg" alt="web" width="41.7919921875" height="22"></a>
 <p align="center">
-<a href="https://github.com/gruppe-adler/stasi.gruppe-adler.de"><img src="./img/repositories/stasi.gruppe-adler.de.svg" alt="stasi.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/wiki.gruppe-adler.de"><img src="./img/repositories/wiki.gruppe-adler.de.svg" alt="wiki.gruppe-adler.de" width="384" height="154"></a>
+<a href="https://github.com/gruppe-adler/stasi.gruppe-adler.de"><img src="./img/repositories/stasi.gruppe-adler.de.svg" alt="stasi.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/gruppe-adler.de"><img src="./img/repositories/gruppe-adler.de.svg" alt="gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/webhook.gruppe-adler.de"><img src="./img/repositories/webhook.gruppe-adler.de.svg" alt="webhook.gruppe-adler.de" width="384" height="154"></a>
 <a href="https://github.com/gruppe-adler/paa.gruppe-adler.de"><img src="./img/repositories/paa.gruppe-adler.de.svg" alt="paa.gruppe-adler.de" width="384" height="154"></a>
